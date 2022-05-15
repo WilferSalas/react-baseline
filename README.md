@@ -23,7 +23,7 @@ $ cd react-baseline
 # Install dependencies
 $ npm i
 # Run the project
-$ npm run start
+$ npm run dev
 # Go to
 http://localhost:3000
 ```
