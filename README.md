@@ -4,7 +4,7 @@
 
 ## Description:
 
-React v18 baseline with TypeScript, Vite and MUI V5
+React v18 with TypeScript, Vite and MUI V5
 
 # Requeriments:
 
