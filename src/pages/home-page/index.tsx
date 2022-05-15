@@ -1,6 +1,6 @@
 // @packages
 import Container from '@mui/material/Container';
-import React, { FC } from 'react';
+import { FC } from 'react';
 
 const HomePage: FC = () => (
   <Container

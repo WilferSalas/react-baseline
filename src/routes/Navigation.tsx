@@ -1,6 +1,6 @@
 /* eslint-disable react/no-array-index-key */
 // @packages
-import React, { FC } from 'react';
+import { FC } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 // @scripts

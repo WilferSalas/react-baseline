@@ -1,6 +1,3 @@
-// @packages
-import React from 'react';
-
 // @scripts
 import Navigation from '../../routes/Navigation';
 
