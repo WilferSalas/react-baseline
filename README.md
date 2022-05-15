@@ -1,10 +1,10 @@
-# React baseline
+# React baseline with TypeScript, Vite and MUI
 
 ---
 
 ## Description:
 
-React v18 with TypeScript, Vite and MUI V5
+React v18 with TypeScript, Vite and MUI v5
 
 # Requeriments:
 
