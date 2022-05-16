@@ -5,7 +5,7 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "format": "prettier -w .",
+    "format": "prettier -w src/",
     "lint": "eslint src/*",
     "lint:fix": "eslint src/* --fix",
     "lint:quiet": "eslint src/* --quiet",
